@@ -7,3 +7,4 @@ O que eu vou aprender na trybe:
 - DOM
 React
 React 2
+Soft Skills
