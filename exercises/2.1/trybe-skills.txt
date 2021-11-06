@@ -8,3 +8,4 @@ O que eu vou aprender na trybe:
 React
 React 2
 Soft Skills
+Fecho
